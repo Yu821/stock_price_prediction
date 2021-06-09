@@ -1,11 +1,15 @@
 # Stock price prediction
 
-How to run examples:
-1. The sample of our projects results can be found in the ExampleResults.ipynb file
-2. Pull the reposite. If the reposite can't be pulled, data folder and ExampleResults.ipynb is needed.
+The sample of our projects results can be found in the ExampleResults.ipynb file.
 
+How to run examples:
+You can pull the reposite and run ExampleResults.ipynb. 
+
+If the reposite can't be pulled, data folder and ExampleResults.ipynb is needed to run the program.
+
+## Files and location
 visualizations.ipynb summarizes all visualizations conducted for data analysis for all datasets.
 
-Models are saved under in individual files in the "./models/saved" folder
+Models are saved under "./models/saved" folder.
 
-Notebooks for building out our models are named accordingly under "./models"
+Notebooks for building out each of models are named accordingly under "./models".
